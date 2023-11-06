@@ -92,6 +92,8 @@ With this simple program (remember, about an hour's quick coding), it is possibl
 
 This is intended as a toy demonstration of how simple it is to build encrypted messaging over an unencrypted messaging service.
 Over a decade ago, [TextSecure](https://en.wikipedia.org/wiki/TextSecure) built a product that did this (using much more clever crypto!) that gave a polished user interface.
+Even before this, [OTR](https://en.wikipedia.org/wiki/Off-the-record_messaging) provided plugins for third-party clients for various unencrypted IM networks that allowed end-to-end encryption (again, with stronger security properties than this demo).
+These were polished clients that provided secure end-to-end encrypted messaging used an existing messaging network as an insecure transport.
 
 Frequently asked questions
 --------------------------
