@@ -2,7 +2,7 @@ Banning End-to-End Encryption is Stupid
 =======================================
 
 Various lawmakers in different countries are proposing to require messaging services to provide a mechanism for law enforcement to decrypt end-to-end encrypted messages.
-This kind of legislation fundamentally misunderstands how easy it is for bad people to build their own end-to-end encryption layers on top of other messaging systems.
+This kind of legislation fundamentally misunderstands how easy it is for privacy-minded people to build their own end-to-end encryption layers on top of other messaging systems.
 
 Requiring Signal, WhatsApp, and so on to introduce vulnerabilities into their products does not make life much harder for criminals.
 Criminals can easily build or buy an extra layer of encryption on top and exchange messages that can't be decrypted.
